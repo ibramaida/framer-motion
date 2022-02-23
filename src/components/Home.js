@@ -10,7 +10,7 @@ const buttonVariants = {
     boxShadow: "0px 0px 8px rgb(255,255,255)",
     transition: {
       yoyo: Infinity,
-      duration: 0.25,
+      duration: 0.35,
     },
   },
 };
